@@ -1,9 +1,9 @@
-#Used Vectors
+# Used Vectors
 
-##Input 
+## Input 
 abcd
 
-##Output 
+## Output 
 a 
 b
 c
